@@ -15,3 +15,7 @@ Session type: Lightning talk
 Mon, May 11th
 4:15 PM - 4:35 PM EDT
 B308-B309 - Level 3
+
+## Slides
+
+<https://people.redhat.com/tcameron/>
