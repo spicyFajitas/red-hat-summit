@@ -73,3 +73,11 @@ Average 160 new CVEs per day :wowie:
 Red Hat hardened images
 
 @ACTION check if we're using red hat hardened images internally
+
+Maintaining 0 CVEs across hardened images. Remove kernel, reduce image size, code included - remove unecessary code footprint, make SBOM smaller
+
+Along build pipeline includes logfile with pinned images / SBOM
+
+How long time to remediation for CVE fixes? RH can get packages out time to discovery, commit to repo and available to pull within a couple hours. GCC is a little longer, 15 hours
+
+@ACTION Project Hummingbird / Fedora relationship? Lots of success with build system. What about OS level? Building project hummingbird on top of RHEL Image Mode. Fedora Hummingbird Linux!! - PCI compliant RHEL Image Mode VMs
