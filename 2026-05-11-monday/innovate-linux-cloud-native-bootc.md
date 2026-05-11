@@ -62,7 +62,7 @@ Bootc is a CNCF project now :tada:
 
 universal blue project - bluefin, bazzite
 
-New bootc features - download only flag, pre-stage image without rebooting into it, bandwidth constrained users `chunka` zstream chunked bootc / zstd:chunked
+New bootc features - download only flag, pre-stage image without rebooting into it, bandwidth constrained users [`chunkah`](https://github.com/coreos/chunkah) zstream chunked bootc / zstd:chunked
 
 ### Ben Breard, Scott Hebert speakers
 
