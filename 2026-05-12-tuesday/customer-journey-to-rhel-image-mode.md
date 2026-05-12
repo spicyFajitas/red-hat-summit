@@ -54,3 +54,21 @@ Red Hat Satellite is still the management plane
 ![RHEL Image Mode Building](../files/4.JPG)
 
 ![RHEL Image Mode Building](../files/5.JPG)
+
+## Links
+
+<https://developers.redhat.com/articles/2025/08/25/what-image-mode-3-way-merge>
+
+## Questions
+
+Q: How are companies provisioning hosts with RHEL Image Mode? We currently use PXE boot for package mode installations
+
+A: vmdk installations on VMware and using Ansible for host-specific provision parameters
+
+Q: Can you have GRUB hold more than 2 bootc bootable digests? Maybe 1 active and 3-5 rollback images?
+
+A: probably no reason to do this, old commits hold build history and the rollback digest is for if the new version breaks and we need an immediate rollback
+    Q: driver breaks, system does not boot - any automatic rollbacks?
+    A: no, would need external automation to monitor system health
+
+Q: One of the slides showed Satellite with the current running images and what digest they were on. The images were `localhost/<image-name>:digest` - were those ISOs created and then the hosts were booted and registered to Satellite afterwards?
