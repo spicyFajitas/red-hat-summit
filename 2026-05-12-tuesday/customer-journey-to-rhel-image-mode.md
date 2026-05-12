@@ -45,4 +45,12 @@ Red Hat Satellite is still the management plane
 
 ### Full Chain
 
-![RHEL Image Mode Chain](../files/rhel-image-mode-1.JPG)
+![RHEL Image Mode Chain](../files/1.JPG)
+
+![RHEL Image Mode Building](../files/2.JPG)
+
+![RHEL Image Mode Building](../files/3.JPG)
+
+![RHEL Image Mode Building](../files/4.JPG)
+
+![RHEL Image Mode Building](../files/5.JPG)
