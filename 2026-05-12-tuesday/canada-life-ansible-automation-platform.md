@@ -1,4 +1,4 @@
-From community to enterprise: Canada Life and Red Hat Ansible Automation Platform
+# From community to enterprise: Canada Life and Red Hat Ansible Automation Platform
 
 As enterprises scale their automation efforts, the limitations of community-supported tools become increasingly apparent. At Canada Life, we faced these challenges head-on—navigating compliance requirements, operational overhead, and the need for a more strategic automation approach. In this session, attendees will gain practical insights into how a managed automation platform can unlock engineering capacity, improve compliance posture, and drive enterprise-wide automation maturity. We will: 
 
