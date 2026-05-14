@@ -49,4 +49,25 @@ Tune the full stack:
 - Qemu agent
 - guest tuning
 
+Performance profile
 
+- runtime class
+- kubelet configs
+  - CRIO
+  - Kubernetes
+- machine config
+- tuneD
+
+CoreOS/KVM
+
+@ACTION look into IRQ management performance tuning
+
+virtual machine Custom Resource (CR)
+    CPU
+        cores: 6
+        dedicatedCpuPlacement: true
+        isolatedEmulatorPlacement: true
+
+<https://access.redhat.com/articles/65410>
+
+@ACTION add in slide of networking tradeoff between performance and features
