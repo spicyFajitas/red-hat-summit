@@ -31,3 +31,28 @@ ACM hub & spoke model, GitOps and zero touch provisioning
 
 <https://www.dmtf.org/standards/redfish>
 
+What is needed before deploying a cluster (challenges)
+
+- mirrored images
+- vault contains secrets
+- SND configured
+- proxy rules set
+- firewall configured
+- DNS records set
+- verify bare metal hardware setup is correct, no hardware failures
+
+Openshift pipelines to automate remediating challenges
+
+- DNS entries created
+- MAC address mapping
+  - reach out to hardware and generate dynamic MAC mapping at pipeline runtime
+- SDN validation
+- HW validation (Intersight, ILO, iDRAC, etc.)
+- Cluster Deployment via ClusterInstance yaml
+- kube-burner post deployment validation
+
+Mirror necessary images from upstream to bastion host `oc mirror`
+
+IDMS/ITMS generated from `oc-mirror` tool @ACTION add screenshot from presentation
+
+<https://github.com/aprincipRedhat/rh-summit-gitops-tmobile>
