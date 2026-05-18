@@ -16,3 +16,4 @@ https://www.trendnet.com/products/multigig-switch/6-port-10g-switch-TEG-S762-v1
 https://docs.cekit.io/en/latest/index.html
 https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/
 https://www.braddoestech.com/
+https://github.com/kube-burner/kube-burner
