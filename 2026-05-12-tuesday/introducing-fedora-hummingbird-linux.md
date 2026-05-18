@@ -4,9 +4,7 @@ Fedora Hummingbird Linux is a new distribution; a community-driven, rolling rele
 
 Built around the Always Ready Kernel (ARK) tracking Linus' mainline, Fedora Hummingbird Linux gives teams immediate access to current kernels, runtimes, and tooling. When your deployment grows or your risk tolerance shifts, support is something you can turn on—not something you have to rebuild your stack around.
 
-
 You should not have to choose between access to the latest software and the ability to support it in production. Too often, teams either lock into a slow-moving enterprise distribution and fight for backports, or they run something fast and free but have no path to commercial support when the stakes get higher. Fedora Hummingbird Linux is built for both realities.
-
 
 In this session, system administrators and architects will learn:
 
@@ -28,3 +26,5 @@ B310 - Level 3
 
 <https://access.redhat.com/security/vulnerabilities/RHSB-2026-003>
 <https://quay.io/repository/hummingbird-community/bootc-os>
+
+<https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders>

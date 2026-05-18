@@ -2,7 +2,6 @@
 
 This session shares how an a customer is using Red Hat Enterprise Linux (RHEL) image mode to raise their security baseline and simplify Day 2 operations across a large, regulated estate.
 
-
 We will examine the bank’s approach to golden images, promotion and signing, controlled rollouts, and drift detection—as well as how Red Hat Satellite and Red Hat Lightspeed fit into the flow. Attendees will learn how this customer reduced change risk, accelerated patch cadence, and made audits more predictable. By the end of this session, you will know what pitfalls to avoid and have access to a starter playbook for your own image-based rollout.
 
 Tihomir Hadzhiev, Senior Specialist Solution Architect, Red Hat

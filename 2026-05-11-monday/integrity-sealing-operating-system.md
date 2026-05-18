@@ -1,4 +1,4 @@
-Integrity sealing your entire operating system
+# Integrity sealing your entire operating system
 
 How do we prove our operating system (OS) hasn't been tampered with—not just at boot, but continuously at runtime? Integrity sealing answers this question by combining container-native Open Container Initiative (OCI) image workflows with a complete cryptographic chain of trust: customer-owned secure boot keys, signed unified kernel images, and composefs with fsverity for per-file verification on every access.
 
