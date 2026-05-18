@@ -8,3 +8,11 @@ http://docs.kernel.org/next/admin-guide/LSM/ipe.html
 https://gitlab.com/redhat/hummingbird/rpms
 https://www.linux.com/training-tutorials/what-ip-masquerading-and-when-it-use/
 https://github.com/truenas/truenas-csi
+https://www.windmill.dev/docs/getting_started/scripts_quickstart/ansible
+https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/ai_workloads/leader-worker-set-operator
+https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/networking_operators/k8s-nmstate-about-the-k8s-nmstate-operator
+https://upstreamwithoutapaddle.com/
+https://www.trendnet.com/products/multigig-switch/6-port-10g-switch-TEG-S762-v1
+https://docs.cekit.io/en/latest/index.html
+https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/
+https://www.braddoestech.com/
